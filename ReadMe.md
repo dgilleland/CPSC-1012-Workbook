@@ -4,11 +4,11 @@
 
 > **STUDENT_NAME**
 
-This repository is a **Student Workbook** "template repository" containing [**demos**](./src/demos/ReadMe.md) as well as [**tutorials** and **practice materials**](./src/ReadMe.md). Learning Outcomes ([**LOGs**](./docs/learning_outcomes/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs). Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes) folder for journaling what you are learning throughout this course.
+This repository is a **Student Workbook** containing [**demos**, **tutorials** and **practice materials**](./src/ReadMe.md). Learning Outcomes ([**LOGs**](./docs/learning_outcomes/ReadMe.md)) and other useful notes can be found in the [**docs** folder](./docs). Also, you are encouraged to use the [**docs/mynotes**](./docs/mynotes) folder for journaling what you are learning throughout this course.
 
 > :warning: **Do *NOT*** use this repository for any assignments that are worth marks. :warning:
 
-Additionally, you can find online notes at the course's [Moodle site](https://moodle.nait.ca) and on the unofficial [website notes](https://cpsc-1517.github.io). Also be sure to checkout out the topical [**Learning Outcomes**](https://.github.io/about/LOGs.html) used in class.
+Additionally, you can find online notes at the [MS Teams Site](https://www.microsoft.com/en-ca/microsoft-teams/log-in) for the course. Also be sure to checkout out the topical [**Learning Outcomes**](https://.github.io/about/LOGs.html) used in class.
 
 ----
 
