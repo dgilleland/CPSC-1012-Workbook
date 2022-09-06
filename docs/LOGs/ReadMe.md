@@ -6,6 +6,12 @@
 
 You are encouraged to add summary notes for each learning outcome.
 
+## Start Here
+
+At the end of this topic, you should be able to:
+
+- 💯 Recall the working description of a computer program as **a set of instructions for manipulating information**
+
 ## Version Control
 
 At the end of this topic, you should be able to:
