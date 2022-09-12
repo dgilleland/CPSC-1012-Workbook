@@ -17,7 +17,7 @@ Additionally, you can find online notes at the [MS Teams Site](https://www.micro
 Required tools for this course include:
 
 - [Visual Studio Code](https://code.visualstudio.com) (see [Notes]() on VS Code extensions)
-  - Alternativly, you can use [Visual Studio 2022, Community Edition](https://visualstudio.microsoft.com/) (see [Notes](#vs-2022-community) on the minimum version)
+  - Alternatively, you can use [Visual Studio 2022, Community Edition](https://visualstudio.microsoft.com/) (see [Notes](#vs-2022-community) on the minimum version)
 - [Git for Windows/macOS/Linux](https://git-scm.com/downloads)
 - [GitHub CLI](https://cli.github.com/) (*Command-Line Interface*)
 
