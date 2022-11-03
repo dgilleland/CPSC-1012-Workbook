@@ -1,4 +1,4 @@
-# Know Your Language ![Docs](https://img.shields.io/badge/Documentation%20Status-%7E10%25%20Minimal%20Outline-lightgrey?logo=Read%20the%20Docs)
+# Know Your Language ![Docs](https://img.shields.io/badge/Documentation%20Status-~70%25%20+%20Usable-yellow?logo=Read%20the%20Docs)
 
 > :bulb: Begin your journey with C# by taking the following modules from Microsoft Learn. You will need to sign in with an account in order to track your progress.
 
