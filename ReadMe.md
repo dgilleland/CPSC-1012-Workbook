@@ -1,6 +1,6 @@
 # CPSC-1012 - **Student Workbook** (Sep 2022)
 
-- [:bulb: Learn C#](https://learn.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07) by Microsoft, consisting of the following Learning Paths:
+- [:bulb: Learn C#](https://learn.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07) by Microsoft, consisting of the following Learning Paths. After completing each learning path, add the link to the learning path into your workbook repository.
   - [Take your first steps with C#](https://learn.microsoft.com/en-us/training/paths/csharp-first-steps/?source=docs&ns-enrollment-type=Collection&ns-enrollment-id=yz26f8y64n7k07) - 8 modules | 3 hr 51 min
   - [Add logic to your applications with C#](https://learn.microsoft.com/en-us/training/paths/csharp-logic/?source=docs&ns-enrollment-type=Collection&ns-enrollment-id=yz26f8y64n7k07) - 5 modules | 2 hr
   - [Work with data in C#](https://learn.microsoft.com/en-us/training/paths/csharp-data/?source=docs&ns-enrollment-type=Collection&ns-enrollment-id=yz26f8y64n7k07) - 5 modules | 2 hr 59 min
